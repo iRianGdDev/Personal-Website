@@ -1,7 +1,7 @@
 
 const items = [
         { icon: 'fab fa-instagram', link: 'https://www.instagram.com/efe.irian.gunaydin/' },
-    { icon: 'fab fa-github', link: 'https://github.com/iRianGdDev' },
+    { icon: 'fab fa-github', link: 'https://github.com/iRianGdDev' }
   ]
 
 import Link from 'next/link';
